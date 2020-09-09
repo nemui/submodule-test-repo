@@ -1,3 +1,6 @@
 [submodule "library-a"]
 	path = library-a
 	url = https://github.com/nemui/library-a.git
+[submodule "library-b"]
+	path = library-b
+	url = https://github.com/nemui/library-b.git
