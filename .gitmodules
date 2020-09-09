@@ -1,0 +1,3 @@
+[submodule "library-a"]
+	path = library-a
+	url = https://github.com/nemui/library-a.git
